@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "EXO_11",
+        "name": "EXO 11",
+        "color": "#FF00FF",
+        "textColor": "#FFFFFF",
+        "note": "exo",
+        "osm_relation": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          
+        ]
+      }
+    }
+  ]
+}

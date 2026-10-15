@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+/* ── Global reset & variables ── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg:        #09090e;
+  --surface:   #111118;
+  --surface2:  #18182a;
+  --surface3:  #21213a;
+  --border:    #26263c;
+  --border2:   #36365a;
+  --text:       #eaeaf2;
+  --text2:      #9090b5;
+  --muted:      #5e5e80;
+  --green:     #00c96b;
+  --orange:    #F4790B;
+  --blue:      #0085CA;
+  --yellow:    #FFD700;
+  --red:       #ff4060;
+  --sidebar-w: 340px;
+}
+
+html, body, #root {
+  height: 100%;
+  font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  overflow: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── Leaflet ── */
+.leaflet-container { background: #0a0a16; }
+
+.leaflet-popup-content-wrapper {
+  background: var(--surface2) !important;
+  color: var(--text) !important;
+  border: 1px solid var(--border2) !important;
+  border-radius: 14px !important;
+  box-shadow: 0 12px 40px rgba(0,0,0,0.8), 0 0 0 1px rgba(255,255,255,0.05) !important;
+  padding: 0 !important;
+}
+
+.leaflet-popup-content { margin: 0 !important; }
+
+.leaflet-popup-tip-container { margin-top: -1px; }
+.leaflet-popup-tip { background: var(--surface2) !important; }
+
+.leaflet-popup-close-button {
+  color: var(--muted) !important;
+  font-size: 18px !important;
+  top: 6px !important;
+  right: 8px !important;
+  line-height: 1 !important;
+}
+
+.leaflet-control-zoom {
+  border: 1px solid var(--border) !important;
+  border-radius: 12px !important;
+  overflow: hidden;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.5) !important;
+}
+
+.leaflet-control-zoom a {
+  background: var(--surface2) !important;
+  color: var(--text2) !important;
+  border-color: var(--border) !important;
+  width: 34px !important;
+  height: 34px !important;
+  line-height: 34px !important;
+  font-size: 16px !important;
+  transition: background 0.15s, color 0.15s;
+}
+
+.leaflet-control-zoom a:hover {
+  background: var(--surface3) !important;
+  color: var(--text) !important;
+}
+
+/* ── Animations globales ── */
+@keyframes live-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(0,201,107,0.6); }
+  50%       { box-shadow: 0 0 0 6px rgba(0,201,107,0); }
+}
+
+@keyframes slide-down {
+  from { opacity: 0; transform: translateY(-6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}

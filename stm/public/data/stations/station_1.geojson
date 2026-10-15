@@ -1,0 +1,405 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M118",
+        "name": "Angrignon",
+        "route_id": "1",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.603293,
+          45.446397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M120",
+        "name": "Monk",
+        "route_id": "1",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.593265,
+          45.451166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M122",
+        "name": "Jolicoeur",
+        "route_id": "1",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.581991,
+          45.456783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M124",
+        "name": "Verdun",
+        "route_id": "1",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.571654,
+          45.459432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M126",
+        "name": "De L'église",
+        "route_id": "1",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.567107,
+          45.461911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M128",
+        "name": "Lasalle",
+        "route_id": "1",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.566281,
+          45.470631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M130",
+        "name": "Charlevoix",
+        "route_id": "1",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.569366,
+          45.478467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M134",
+        "name": "Atwater",
+        "route_id": "1",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.585731,
+          45.490038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M136",
+        "name": "Guy-Concordia",
+        "route_id": "1",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57925,
+          45.495692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M138",
+        "name": "Peel",
+        "route_id": "1",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57471,
+          45.500895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M140",
+        "name": "Mcgill",
+        "route_id": "1",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.571793,
+          45.504137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M142",
+        "name": "Place Des Arts",
+        "route_id": "1",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.568313,
+          45.508173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M144",
+        "name": "St-Laurent",
+        "route_id": "1",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56534,
+          45.51059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M148",
+        "name": "Beaudry",
+        "route_id": "1",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55591,
+          45.518971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M150",
+        "name": "Papineau",
+        "route_id": "1",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.552073,
+          45.523717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M152",
+        "name": "Frontenac",
+        "route_id": "1",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.552158,
+          45.533133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M154",
+        "name": "Préfontaine",
+        "route_id": "1",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.554543,
+          45.54177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M156",
+        "name": "Joliette",
+        "route_id": "1",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.551427,
+          45.546819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M158",
+        "name": "Pie Ix",
+        "route_id": "1",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.551696,
+          45.553658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M160",
+        "name": "Viau",
+        "route_id": "1",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.54703,
+          45.560976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M162",
+        "name": "De L'assomption",
+        "route_id": "1",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.546845,
+          45.569167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M164",
+        "name": "Cadillac",
+        "route_id": "1",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.54669,
+          45.576859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M166",
+        "name": "Langelier",
+        "route_id": "1",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.543101,
+          45.582784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M168",
+        "name": "Radisson",
+        "route_id": "1",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.539753,
+          45.589614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M170",
+        "name": "Honoré-Beaugrand",
+        "route_id": "1",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.535053,
+          45.596495
+        ]
+      }
+    }
+  ]
+}

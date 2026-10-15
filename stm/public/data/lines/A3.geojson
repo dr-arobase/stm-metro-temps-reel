@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "A3",
+        "name": "REM A3 Anse-à-l'Orme — Gare Centrale",
+        "color": "#00B300",
+        "textColor": "#FFFFFF"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [  -73.712514,  45.522044 ],
+          [  -73.791121,  45.477102 ],
+          [  -73.835328,  45.459952 ],
+          [ -73.885608,  45.440314  ],
+          [ -73.909908,  45.431592 ]
+        ]
+      }
+    }
+  ]
+}

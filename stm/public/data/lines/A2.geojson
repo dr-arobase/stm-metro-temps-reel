@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "A2",
+        "name": "REM A2 – YUL-Aéroport Montréal-Trudeau — Gare Centrale",
+        "color": "#00B300",
+        "textColor": "#FFFFFF",
+        "note": "approximate geometry imported from stm/idk; refine with OSM/GTFS as needed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [ -73.712514, 45.522044 ],
+          [ -73.760294, 45.480051 ],
+          [ -73.749619, 45.457128 ]
+        ]
+      }
+    }
+  ]
+}

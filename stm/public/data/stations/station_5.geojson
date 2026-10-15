@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M534",
+        "name": "Côte-Des-Neiges",
+        "route_id": "5",
+        "color": "#0095E6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.62339,
+          45.496808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M536",
+        "name": "Université De Montreal",
+        "route_id": "5",
+        "color": "#0095E6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.618478,
+          45.503671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M538",
+        "name": "Édouard-Montpetit",
+        "route_id": "5",
+        "color": "#0095E6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.612344,
+          45.51022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M540",
+        "name": "Outremont",
+        "route_id": "5",
+        "color": "#0095E6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.615012,
+          45.520363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M542",
+        "name": "Acadie",
+        "route_id": "5",
+        "color": "#0095E6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.623211,
+          45.523467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M544",
+        "name": " Du Parc",
+        "route_id": "5",
+        "color": "#0095E6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.624583,
+          45.530197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M546",
+        "name": "De Castelnau",
+        "route_id": "5",
+        "color": "#0095E6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.619871,
+          45.535483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M552",
+        "name": "Fabre",
+        "route_id": "5",
+        "color": "#0095E6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.607055,
+          45.547921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M554",
+        "name": "Iberville",
+        "route_id": "5",
+        "color": "#0095E6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.602038,
+          45.553612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M556",
+        "name": "Saint-Michel",
+        "route_id": "5",
+        "color": "#0095E6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.600167,
+          45.559708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M557",
+        "name": "Vertière",
+        "route_id": "5",
+        "color": "#9ea1a6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.591329,
+           45.566536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M558",
+        "name": "Mary-Two-Axe-Earley",
+        "route_id": "5",
+        "color": "#9ea1a6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -73.584476,
+           45.574921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M559",
+        "name": "Céaira-Parisotto",
+        "route_id": "5",
+        "color": "#9ea1a6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -73.580731,
+           45.583159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M560",
+        "name": "Madeleine-Parent",
+        "route_id": "5",
+        "color": "#9ea1a6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.574814,
+          45.592084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M561",
+        "name": "Anjou",
+        "route_id": "5",
+        "color": "#9ea1a6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -73.560215,
+         45.601647
+        ]
+      }
+    }
+  ]
+}

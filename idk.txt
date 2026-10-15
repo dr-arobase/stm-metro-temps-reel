@@ -1,0 +1,82 @@
+https://www.openstreetmap.org/way/492375119#map=14/45.57686/-73.58608
+
+
+{
+              "type": "Feature",
+              "properties": {
+                "route_id": "A1",
+                "name": "REM A1 – Brossard — Gare Centrale",
+                "color": "#00B300",
+                "textColor": "#FFFFFF"
+              },
+              "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                  [ -73.4389, 45.4414 ],
+                  [ -73.4367, 45.4458 ],
+                  [ -73.4719, 45.4717 ],
+                  [ -73.5433, 45.4611 ],
+                  [ -73.5664, 45.4996 ]
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "route_id": "A2",
+                "name": "REM A2 – Deux-Montagnes — Gare Centrale",
+                "color": "#9ea1a6",
+                "textColor": "#000000"
+              },
+              "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                  [ -73.8950, 45.5414 ],
+                  [ -73.9030, 45.5330 ],
+                  [ -73.8410, 45.5090 ],
+                  [ -73.8120, 45.4950 ],
+                  [ -73.7150, 45.5428 ],
+                  [ -73.5664, 45.4996 ]
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "route_id": "A3",
+                "name": "REM A3 – Anse-à-l'Orme — Gare Centrale",
+                "color": "#9ea1a6",
+                "textColor": "#000000"
+              },
+              "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                  [ -73.9142, 45.4036 ],
+                  [ -73.8650, 45.4470 ],
+                  [ -73.8300, 45.4650 ],
+                  [ -73.7497, 45.4577 ],
+                  [ -73.7430, 45.4740 ],
+                  [ -73.5664, 45.4996 ]
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "route_id": "A4",
+                "name": "REM A4 – YUL — Gare Centrale",
+                "color": "#00B300",
+                "textColor": "#FFFFFF"
+              },
+              "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                  [ -73.7497, 45.4577 ],
+                  [ -73.8300, 45.4650 ],
+                  [ -73.8650, 45.4470 ],
+                  [ -73.8410, 45.5090 ],
+                  [ -73.8950, 45.5414 ],
+                  [ -73.5664, 45.4996 ]
+                ]
+              }
+            }

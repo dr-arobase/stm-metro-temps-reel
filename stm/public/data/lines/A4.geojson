@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "A4",
+        "name": "REM A4 Deux-Montagnes — Gare Centrale",
+        "color": "#00B300",
+        "textColor": "#FFFFFF",
+        "note": "approximate geometry imported from stm/idk; refine with OSM/GTFS as needed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [ -73.712514, 45.522044 ],
+            [ -73.785701, 45.503839 ],
+            [ -73.811922, 45.509743 ],
+            [ -73.852951, 45.519906 ],
+            [ -73.862472, 45.523460 ],
+            [ -73.887885, 45.537255 ],
+            [ -73.912413, 45.545683 ]
+        ]
+      }
+    }
+  ]
+}

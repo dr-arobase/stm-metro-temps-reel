@@ -1,0 +1,456 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "REM_Brossard",
+        "name": "Brossard",
+        "route_id": "REM",
+        "zone": "B",
+        "etat": "En service",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4305816,
+          45.4380608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "REM_Du_Quartier",
+        "name": "Du Quartier",
+        "route_id": "REM",
+        "zone": "B",
+        "etat": "En service",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4333122,
+          45.4466901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "REM_Panama",
+        "name": "Panama",
+        "route_id": "REM",
+        "zone": "B",
+        "etat": "En service",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4703605,
+          45.4649595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "REM_Île-Des-Soeurs",
+        "name": "Île-des-Soeurs",
+        "route_id": "REM",
+        "zone": "A",
+        "etat": "En service",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.54212111015,
+          45.4715199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "REM_Gare_Centrale",
+        "name": "Gare Centrale",
+        "route_id": "REM",
+        "zone": "A",
+        "etat": "En service",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5666874,
+          45.4999265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "REM_McGill",
+        "name": "McGill",
+        "route_id": "REM",
+        "zone": "A",
+        "etat": "En service",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5711518,
+          45.5046625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "REM_Edouard_Montpetit",
+        "name": "Édouard-Montpetit",
+        "route_id": "REM",
+        "zone": "A",
+        "etat": "En service",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6125273,
+          45.5101323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "REM_Canora",
+        "name": "Canora",
+        "route_id": "REM",
+        "zone": "A",
+        "etat": "En service",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6338787,
+          45.5137474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "REM_Ville_de_Mont_Royal",
+        "name": "Ville-de-Mont-Royal",
+        "route_id": "REM",
+        "zone": "A",
+        "etat": "En service",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.643454,
+          45.5165145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "REM_Cote_de_Liesse",
+        "name": "Côte-de-Liesse",
+        "route_id": "REM",
+        "zone": "A",
+        "etat": "En service",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.661868,
+          45.5218291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "REM_Montpellier",
+        "name": "Montpellier",
+        "route_id": "REM",
+        "zone": "A",
+        "etat": "En service",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6722229,
+          45.5248032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "REM_Du_Ruisseau",
+        "name": "Du Ruisseau",
+        "route_id": "REM",
+        "zone": "A",
+        "etat": "En service",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6902186,
+          45.5289311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "REM_Bois_Franc",
+        "name": "Bois-Franc",
+        "route_id": "REM",
+        "zone": "A",
+        "etat": "En service",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7125138,
+          45.5220437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "REM_Sunnybrooke",
+        "name": "Sunnybrooke",
+        "route_id": "REM",
+        "zone": "A",
+        "etat": "En service",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7857006,
+          45.5038395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "REM_Pierrefonds_Roxboro",
+        "name": "Pierrefonds-Roxboro",
+        "route_id": "REM",
+        "zone": "A",
+        "etat": "En service",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8119219,
+          45.5097433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "REM_Des_Sources",
+        "name": "Des Sources",
+        "route_id": "REM",
+        "zone": "A",
+        "etat": "En construction",
+        "color": "#9ea1a6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7911213,
+          45.4771022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "REM_Fairview_Pointe_Claire",
+        "name": "Fairview–Pointe-Claire",
+        "route_id": "REM",
+        "zone": "A",
+        "etat": "En construction",
+        "color": "#9ea1a6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8353279,
+          45.4599523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "REM_Kirkland",
+        "name": "Kirkland",
+        "route_id": "REM",
+        "zone": "A",
+        "etat": "En construction",
+        "color": "#9ea1a6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.885608,
+          45.4403141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "REM_Anse_a_l_Orme",
+        "name": "Anse-à-l'Orme",
+        "route_id": "REM",
+        "zone": "A",
+        "etat": "En construction",
+        "color": "#9ea1a6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9099082,
+          45.4315922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "REM_Marie_Curie",
+        "name": "Marie-Curie",
+        "route_id": "REM",
+        "zone": "A",
+        "etat": "En construction",
+        "color": "#9ea1a6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7602942,
+          45.4800508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "REM_YUL",
+        "name": "YUL-Aéroport-Montréal-Trudeau",
+        "route_id": "REM",
+        "zone": "A",
+        "etat": "En construction",
+        "color": "#9ea1a6",
+        "note": "Inclut zone tarifaire B (Laval)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7496191,
+          45.4571284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "REM_Ile_Bigras",
+        "name": "Île-Bigras",
+        "route_id": "REM",
+        "zone": "B",
+        "etat": "En service",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8529506,
+          45.5199056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "REM_Sainte_Dorothee",
+        "name": "Sainte-Dorothée",
+        "route_id": "REM",
+        "zone": "B",
+        "etat": "En service",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8624724,
+          45.5234599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "REM_Grand_Moulin",
+        "name": "Grand-Moulin",
+        "route_id": "REM",
+        "zone": "C",
+        "etat": "En service",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8878846,
+          45.5372549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "REM_Deux_Montagnes",
+        "name": "Deux-Montagnes",
+        "route_id": "REM",
+        "zone": "C",
+        "etat": "En service",
+        "color": "#00B300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9124135,
+          45.5456833
+        ]
+      }
+    }
+  ]
+}

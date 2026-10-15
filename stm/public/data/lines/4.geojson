@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "4",
+        "name": "Ligne 4 – Jaune",
+        "color": "#FFD900",
+        "textColor": "#000000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.561013,
+            45.515191
+          ],
+          [
+            -73.533127,
+            45.512429
+          ],
+          [
+            -73.522098,
+            45.52489
+          ]
+        ]
+      }
+    }
+  ]
+}

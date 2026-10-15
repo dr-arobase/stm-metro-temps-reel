@@ -1,0 +1,501 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M132",
+        "name": "Lionel-Groulx",
+        "route_id": "2",
+        "color": "#D95700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.579721,
+          45.482818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M146",
+        "name": "Berri-Uqam",
+        "route_id": "2",
+        "color": "#D95700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.560106,
+          45.514852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M222",
+        "name": "Côte-Vertu",
+        "route_id": "2",
+        "color": "#D95700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.682766,
+          45.514244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M224",
+        "name": "Du Collège",
+        "route_id": "2",
+        "color": "#D95700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.673282,
+          45.508356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M228",
+        "name": "De La Savane",
+        "route_id": "2",
+        "color": "#D95700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.661537,
+          45.50033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M230",
+        "name": "Namur",
+        "route_id": "2",
+        "color": "#D95700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.652755,
+          45.494637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M232",
+        "name": "Plamondon",
+        "route_id": "2",
+        "color": "#D95700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.638166,
+          45.494609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M234",
+        "name": "Côte-Ste-Catherine",
+        "route_id": "2",
+        "color": "#D95700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.633146,
+          45.49236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M236",
+        "name": "Snowdon",
+        "route_id": "2",
+        "color": "#D95700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.627806,
+          45.485244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M238",
+        "name": "Villa-Maria",
+        "route_id": "2",
+        "color": "#D95700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61979,
+          45.479559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M242",
+        "name": "Vendôme",
+        "route_id": "2",
+        "color": "#D95700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.603865,
+          45.473861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M244",
+        "name": "Place St-Henri",
+        "route_id": "2",
+        "color": "#D95700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.586418,
+          45.477363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M248",
+        "name": "Georges-Vanier",
+        "route_id": "2",
+        "color": "#D95700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.576435,
+          45.488962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M250",
+        "name": "Lucien-L'allier",
+        "route_id": "2",
+        "color": "#D95700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.571215,
+          45.494814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M252",
+        "name": "Bonaventure",
+        "route_id": "2",
+        "color": "#D95700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.567129,
+          45.498053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M254",
+        "name": "Square Victoria-Oaci",
+        "route_id": "2",
+        "color": "#D95700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.563188,
+          45.501874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M256",
+        "name": "Place D'armes",
+        "route_id": "2",
+        "color": "#D95700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.559505,
+          45.506277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M258",
+        "name": "Champs De Mars",
+        "route_id": "2",
+        "color": "#D95700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.556462,
+          45.510031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M262",
+        "name": "Sherbrooke",
+        "route_id": "2",
+        "color": "#D95700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.568263,
+          45.518407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M264",
+        "name": "Mont-Royal",
+        "route_id": "2",
+        "color": "#D95700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.582234,
+          45.524716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M266",
+        "name": "Laurier",
+        "route_id": "2",
+        "color": "#D95700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.586858,
+          45.527388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M268",
+        "name": "Rosemont",
+        "route_id": "2",
+        "color": "#D95700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.598493,
+          45.531023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M270",
+        "name": "Beaubien",
+        "route_id": "2",
+        "color": "#D95700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6044,
+          45.535236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M272",
+        "name": "Jean-Talon",
+        "route_id": "2",
+        "color": "#D95700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.613814,
+          45.539074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M274",
+        "name": "Jarry",
+        "route_id": "2",
+        "color": "#D95700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.628674,
+          45.543438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M276",
+        "name": "Crémazie",
+        "route_id": "2",
+        "color": "#D95700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.63887,
+          45.545972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M278",
+        "name": "Sauvé",
+        "route_id": "2",
+        "color": "#D95700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.65593,
+          45.550819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M280",
+        "name": "Henri-Bourassa",
+        "route_id": "2",
+        "color": "#D95700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.668199,
+          45.55522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M282",
+        "name": "Cartier",
+        "route_id": "2",
+        "color": "#D95700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.681719,
+          45.560398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M286",
+        "name": "De La Concorde",
+        "route_id": "2",
+        "color": "#D95700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.709337,
+          45.560544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M288",
+        "name": "Montmorency",
+        "route_id": "2",
+        "color": "#D95700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.722423,
+          45.558434
+        ]
+      }
+    }
+  ]
+}

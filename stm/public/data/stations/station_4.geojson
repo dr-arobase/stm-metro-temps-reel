@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M452",
+        "name": "Jean-Drapeau",
+        "route_id": "4",
+        "color": "#FFD900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.532703,
+          45.512335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "STATION_M454",
+        "name": "Longueuil- U. De Sherbrooke",
+        "route_id": "4",
+        "color": "#FFD900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.522036,
+          45.524574
+        ]
+      }
+    }
+  ]
+}
